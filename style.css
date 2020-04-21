@@ -1,0 +1,30 @@
+body{
+	font: 'Raleway', sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    top: 15%;
+	background: linear-gradient(to right, rgb(244, 11, 216), rgb(123, 181, 239));
+}
+h1{
+	font: 600 3.5em 'Raleway', sans-serif;
+    color: red;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    width: 100%;
+
+}
+#photoName{
+	display: flex;
+	flex-wrap: left;
+	justify-content: middle;
+	padding: 10px;
+	margin: 10px;
+}
+
+.dp{
+	width: 300px;
+	height: 300px;
+}
